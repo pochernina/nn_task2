@@ -13,3 +13,11 @@
 | LBL1  | Автоматическое сохранение модели при обучении |
 | LBL2  | Валидация модели на тестовой выборке |
 | LBL3  | Вывод функции потерь и точности в процессе обучения |
+
+### Пример работы модели:
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="video/test_g1_c3.mp4" type="video/mp4">
+  </video>
+</figure>
