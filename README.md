@@ -16,8 +16,4 @@
 
 ### Пример работы модели:
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/pochernina/nn_task2/blob/master/video/test_g1_c3.mp4" type="video/mp4">
-  </video>
-</figure>
+![](/video/test_g1_c3.gif)
