@@ -16,4 +16,4 @@
 
 ### Пример работы модели:
 
-<img src="video/test_g1_c3.gif" alt="example"/>
+<img src="video/test.gif" alt="example"/>
